@@ -1,0 +1,71 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    position: relative;
+}
+
+h1 {
+    color:  hsl(0, 0%, 100%);
+    font-size: 1.3rem;
+    text-align: left;
+    padding-top: 10px;
+}
+
+h3 {
+  color:  hsl(0, 0%, 100%);
+  font-size: 1rem;
+  padding-top: 8px;
+  text-align: left;
+}
+
+
+p {
+    color:#BEBEBE;
+    font-size: 0.9rem;
+    font-weight: normal;
+    text-align: left;
+}
+
+hr {
+        border-color: hsl(215, 32%, 27%);
+        border-width: 2px;
+        width: 100%;
+}
+
+.beh {
+    color: hwb(178 20% 19%);
+    float: left;
+}
+
+.ceh {
+    float: right;
+}
+
+#nft-preview {
+    position:absolute;
+    margin-top: 50px;
+    width: 70%;
+    left:200px;
+}
+
+.card {
+    background-color: hsl(216, 50%, 16%);
+
+}
+
+.equi {
+    border-radius: 7px;
+    width: 100%;
+}
+
+
+.im {
+    width: 40px;
+    float: left;
+}
+
+.lst {
+    float: left;
+    padding: 7px 9px;
+}
